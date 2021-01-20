@@ -275,7 +275,7 @@ curl -iX POST \
   -H 'fiware-service: openiot' \
   -H 'fiware-servicepath: /' \
   -d '{
-  "description": "Notify Cygnus (Mongo-DB) of all context changes",
+  "description": "Notify Cygnus ,Mongo-DB, of all context changes",
   "subject": {
     "entities": [
       {
